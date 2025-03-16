@@ -1,0 +1,15 @@
+{
+    "configurations": [
+    {
+        "cwd": "${workspaceFolder}",
+        "executable": "./build/test_LED.elf",
+        "name": "Debug with ST-Link",
+        "targetId":"STM32F103C8",
+        "request": "launch",
+        "type": "cortex-debug",
+        "runToEntryPoint": "main",
+        "showDevDebugOutput": "none",
+        "servertype": "pyocd"
+    }
+    ]
+}

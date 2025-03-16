@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "rtthread.h": "c",
+        "gpio.h": "c",
+        "winapifamily.h": "c",
+        "thread.h": "c",
+        "schedule.h": "c",
+        "main.h": "c",
+        "rtos.h": "c",
+        "type_traits": "c",
+        "demo.h": "c",
+        "rtconfig.h": "c",
+        "stm32f1xx_it.h": "c",
+        "service.h": "c"
+    },
+    "cortex-debug.variableUseNaturalFormat": false
+}
